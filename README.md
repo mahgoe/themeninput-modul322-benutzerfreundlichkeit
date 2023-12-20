@@ -48,12 +48,12 @@ Man kann testen, ob Benutzer intuitiv durch die Applikation navigieren können.
 
 ![SUS](./assets/img/sus.png)
 
-### HEART - Happiness, Engagement, Adoption, Retention, and Task Success
+## HEART - Happiness, Engagement, Adoption, Retention, and Task Success
 
 - **Erläuterung**
   - HEART ist ein Framework zur Bewertung von Benutzererfahrungen, basierend auf fünf Metriken: Glück, Engagement, Akzeptanz, Bindung und Aufgabenerfolg.
 
-## Messung der einzelnen Punkten
+### Messung der einzelnen Punkten
 
 ### **Happiness (Glück)**
 
